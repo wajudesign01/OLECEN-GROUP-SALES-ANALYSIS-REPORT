@@ -23,20 +23,11 @@ I performed my data cleaning process and transformation using EXCEL
 
 - Washington emerges to bethe highest profitable location for OLECEN GROUP with profit of $134.9k, from the bottom New York is the location with the least profit.
 
-‎- Age group of 51+ has the
-‎highest profit amongst others
-‎
-‎- In all 100 products ‘Begin Brew’is the top most profitable products, followed accordingly by ‘common splash’, ‘onto dew’ & the rest as followed.
-‎
-‎- The line chart displays perfectly the unsteady pattern of profit trend & month over month growth rate of OLECEN GROUP in which only in between the period of October & November a positive growth was maintained.
-‎
-‎- In profit by gender,the male gender has slightly generated more profit compared to female gender.
-‎
-‎
-‎- Soft drinks has generated more profit than other product category for OLECEN GROUP within the year with a total profit of $718.22k.
-
-
-
+- Age group of 51+ has the ‎highest profit amongst others
+‎‎- In all 100 products ‘Begin Brew’is the top most profitable products, followed accordingly by ‘common splash’, ‘onto dew’ & the rest as followed.
+‎‎- The line chart displays perfectly the unsteady pattern of profit trend & month over month growth rate of OLECEN GROUP in which only in between the period of October & November a positive growth was maintained.
+- In profit by gender,the male gender has slightly generated more profit compared to female gender.
+- Soft drinks has generated more profit than other product category for OLECEN GROUP within the year with a total profit of $718.22k.
 
 ‎These are just few of the many more insights that can be derived from this analysis .
 
